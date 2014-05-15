@@ -39,12 +39,12 @@ O objetivo é facilitar o acesso às informações a todos os cidadãos.
 
 ## Normas e termos
 
-- Este é um projeto no Github, por tanto, não é responsabilidade do Github, as informações contidas aqui.
+- Este é um projeto no Github, portanto, não é responsabilidade do Github, as informações contidas aqui.
 - Trata-se de um projeto open source, livre, aberto ao público.
 - Issues são públicas, ou seja, podem ser lidas, alteradas e criadas por qualquer pessoa, seguindo as funcionalidades oferecidas pelo Github.
-- Este projeto é vivo, por tanto, não há uma data para início ou finalização do mesmo, e novas issues poderão ser criadas a qualquer momento.
+- Este projeto é vivo, portanto, não há uma data para início ou finalização do mesmo, e novas issues poderão ser criadas a qualquer momento.
 - Issues no Github não são anônimas.
-- Issues no Github **não podem ser deletadas**, por tanto, leia bem o que escrever, antes de publica-las.
+- Issues no Github **não podem ser deletadas**, portanto, leia bem o que escrever, antes de publica-las.
 - O Autor do projeto, ou os responsáveis por possíveis forks do mesmo, não são responsáveis de forma alguma pelo que é escrito, citado ou referenciado em issues ou comentários.
 - O Autor do projeto, ou os responsáveis por possíveis forks do mesmo, poderão alterar issues que venham a ser consideradas prejudiciais ao intúito ou objetivos do projeto.
 - O acesso irrestrito ao projeto e issues garante a todos, o direito de expressão e acesso a informações.
